@@ -1,8 +1,8 @@
 package Perulangan;
-
+//
 public class Main2 {
     public static void main(String[] args) {
-        int isiGelas = 0;
+        int isiGelas = 225;
         int penuh = 225;
 
         System.out.println("Isi Gelas Sekarang :" + isiGelas + "ml");
